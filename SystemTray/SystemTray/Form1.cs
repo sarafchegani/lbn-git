@@ -106,6 +106,7 @@ namespace SystemTray
                             CMD_insert.Parameters.Add("@bcf", SqlDbType.VarChar);
                             CMD_insert.Parameters["@bcf"].Value = m_bcf;
 
+
                             CMD_insert.Parameters.Add("@bcf_adm_state", SqlDbType.VarChar);
                             CMD_insert.Parameters["@bcf_adm_state"].Value = m_bcf_adm;
 

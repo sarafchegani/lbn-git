@@ -25,3 +25,6 @@ C:\Users\TELECOM\Documents\SystemTray\SystemTray\obj\Debug\SystemTray.csprojReso
 C:\Users\TELECOM\Documents\SystemTray\SystemTray\obj\Debug\SystemTray.Form1.resources
 C:\Users\TELECOM\Documents\SystemTray\SystemTray\obj\Debug\SystemTray.Properties.Resources.resources
 C:\Users\TELECOM\Documents\SystemTray\SystemTray\obj\Debug\SystemTray.csproj.GenerateResource.Cache
+F:\lbn-git\SystemTray\SystemTray\bin\Debug\SystemTray.exe.config
+F:\lbn-git\SystemTray\SystemTray\obj\Debug\SystemTray.exe
+F:\lbn-git\SystemTray\SystemTray\obj\Debug\SystemTray.pdb

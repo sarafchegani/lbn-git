@@ -1,0 +1,27 @@
+c:\users\michal\documents\visual studio 2013\Projects\SystemTray\SystemTray\bin\Debug\SystemTray.exe.config
+c:\users\michal\documents\visual studio 2013\Projects\SystemTray\SystemTray\bin\Debug\SystemTray.exe
+c:\users\michal\documents\visual studio 2013\Projects\SystemTray\SystemTray\bin\Debug\SystemTray.pdb
+c:\users\michal\documents\visual studio 2013\Projects\SystemTray\SystemTray\obj\Debug\SystemTray.csprojResolveAssemblyReference.cache
+c:\users\michal\documents\visual studio 2013\Projects\SystemTray\SystemTray\obj\Debug\SystemTray.Form1.resources
+c:\users\michal\documents\visual studio 2013\Projects\SystemTray\SystemTray\obj\Debug\SystemTray.Properties.Resources.resources
+c:\users\michal\documents\visual studio 2013\Projects\SystemTray\SystemTray\obj\Debug\SystemTray.csproj.GenerateResource.Cache
+c:\users\michal\documents\visual studio 2013\Projects\SystemTray\SystemTray\obj\Debug\SystemTray.exe
+c:\users\michal\documents\visual studio 2013\Projects\SystemTray\SystemTray\obj\Debug\SystemTray.pdb
+C:\Users\FlashMan\Desktop\SystemTray\SystemTray\SystemTray\bin\Debug\SystemTray.exe.config
+C:\Users\FlashMan\Desktop\SystemTray\SystemTray\SystemTray\obj\Debug\SystemTray.exe
+C:\Users\FlashMan\Desktop\SystemTray\SystemTray\SystemTray\obj\Debug\SystemTray.pdb
+C:\Users\FlashMan\Desktop\SystemTray\SystemTray\SystemTray\bin\Debug\SystemTray.exe
+C:\Users\FlashMan\Desktop\SystemTray\SystemTray\SystemTray\bin\Debug\SystemTray.pdb
+C:\Users\FlashMan\Desktop\SystemTray\SystemTray\SystemTray\obj\Debug\SystemTray.csprojResolveAssemblyReference.cache
+C:\Users\FlashMan\Desktop\SystemTray\SystemTray\SystemTray\obj\Debug\SystemTray.Form1.resources
+C:\Users\FlashMan\Desktop\SystemTray\SystemTray\SystemTray\obj\Debug\SystemTray.Properties.Resources.resources
+C:\Users\FlashMan\Desktop\SystemTray\SystemTray\SystemTray\obj\Debug\SystemTray.csproj.GenerateResource.Cache
+C:\Users\TELECOM\Documents\SystemTray\SystemTray\bin\Debug\SystemTray.exe.config
+C:\Users\TELECOM\Documents\SystemTray\SystemTray\obj\Debug\SystemTray.exe
+C:\Users\TELECOM\Documents\SystemTray\SystemTray\obj\Debug\SystemTray.pdb
+C:\Users\TELECOM\Documents\SystemTray\SystemTray\bin\Debug\SystemTray.exe
+C:\Users\TELECOM\Documents\SystemTray\SystemTray\bin\Debug\SystemTray.pdb
+C:\Users\TELECOM\Documents\SystemTray\SystemTray\obj\Debug\SystemTray.csprojResolveAssemblyReference.cache
+C:\Users\TELECOM\Documents\SystemTray\SystemTray\obj\Debug\SystemTray.Form1.resources
+C:\Users\TELECOM\Documents\SystemTray\SystemTray\obj\Debug\SystemTray.Properties.Resources.resources
+C:\Users\TELECOM\Documents\SystemTray\SystemTray\obj\Debug\SystemTray.csproj.GenerateResource.Cache

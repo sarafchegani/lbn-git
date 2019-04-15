@@ -15,6 +15,7 @@ namespace testTelnet
 
     enum Verbs
     {
+
         WILL = 251,
         WONT = 252,
         DO = 253,

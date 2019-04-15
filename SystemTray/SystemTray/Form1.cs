@@ -50,7 +50,7 @@ namespace SystemTray
 
         private void button1_Click(object sender, EventArgs e)
         {
-            SqlConnection objConnection = new SqlConnection(@"Data Source=(LocalDB)\v11.0;AttachDbFilename=F:\flexilmt\flexilmt\DATABASE\LMT_BCF.mdf;Integrated Security=True;Connect Timeout=30");
+            SqlConnection objConnection = new SqlConnection(@"Data Source=(LocalDB)\v11.0;AttachDbFilename=F:\lbn-git\SystemTray\SystemTray\DATABASE\LMT_BCF.mdf;Integrated Security=True;Connect Timeout=30");
             //  SqlDataReader myReader = objConnection.ExecuteReader();
             string sql = "select * from [dbo].[Table] ORDER BY [bcf],[bts],[trx] ASC ";
             string sql_alm = "select * from [dbo].[Table] WHERE  [ch0_op_state] LIKE '%BL%'  ORDER BY [bcf],[bts],[trx] ASC    ";
